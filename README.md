@@ -4,6 +4,10 @@ My name is Brennan Lawrence. I am a web developer based in Denver, with a backgr
 
 I am passionate about cross-cultural communication and making systems that fit people. I am always looking for ways to improve existing structures and to make them more people-focused.
 
+Web Development Frameworks
+| Git | HTML | CSS | JavaScript | React | Redux | Jest | Express | Node.js | SQL | Python | PostgreSQL |
+
+
 <!--
 **brennanlawrence/brennanlawrence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
