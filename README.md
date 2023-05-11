@@ -6,7 +6,7 @@ I am passionate about cross-cultural communication and making systems that fit p
 
 Web Development Frameworks
 
-| Git | HTML | CSS | JavaScript | React | Redux | Jest | Express | Node.js | SQL | Python | PostgreSQL | Ruby | Ruby on Rails |
+| HTML | CSS | JavaScript | React | Redux | Jest | Express | Node.js | SQL | Python | PostgreSQL | Ruby | Ruby on Rails | Bullet Traiin | 
 
 
 <!--
